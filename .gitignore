@@ -1,0 +1,9 @@
+vars.yaml
+*/manifests/*.yaml
+*.pem
+.terraform*
+*.tfstate
+terraform.tfplan
+terraform.tfstate.backup
+tests/use-cases/*/*.yaml
+venv
